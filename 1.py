@@ -1,1 +1,1 @@
-print(mhr)
+print("mhr")
